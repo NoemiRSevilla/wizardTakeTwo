@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/bin/Debug/netcoreapp2.2/wizardtaketwo.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/bin/Debug/netcoreapp2.2/wizardtaketwo.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/bin/Debug/netcoreapp2.2/wizardtaketwo.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/bin/Debug/netcoreapp2.2/wizardtaketwo.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/bin/Debug/netcoreapp2.2/wizardtaketwo.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/obj/Debug/netcoreapp2.2/wizardtaketwo.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/obj/Debug/netcoreapp2.2/wizardtaketwo.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/obj/Debug/netcoreapp2.2/wizardtaketwo.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/obj/Debug/netcoreapp2.2/wizardtaketwo.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/obj/Debug/netcoreapp2.2/wizardtaketwo.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/wizardtaketwo/obj/Debug/netcoreapp2.2/wizardtaketwo.pdb
